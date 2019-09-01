@@ -1,0 +1,28 @@
+{
+  "name": "graphql-simple-crud",
+  "version": "1.0.0",
+  "description": "simple crud with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutantluiz/graphql-simple-crud.git"
+  },
+  "author": "Luiz JS Filho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mutantluiz/graphql-simple-crud/issues"
+  },
+  "homepage": "https://github.com/mutantluiz/graphql-simple-crud#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "graphql": "^14.3.0",
+    "uuid": "^3.3.2"
+  }
+}
