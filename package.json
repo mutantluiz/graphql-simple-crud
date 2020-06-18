@@ -21,7 +21,7 @@
     "eslint": "^5.16.0"
   },
   "dependencies": {
-    "apollo-server": "^2.5.0",
+    "apollo-server": "^2.14.2",
     "graphql": "^14.3.0",
     "uuid": "^3.3.2"
   }
